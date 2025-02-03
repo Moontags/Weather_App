@@ -14,7 +14,7 @@ This is a simple weather application that fetches and displays weather informati
 
 ## Demo Video
 
-[![Weather App Demo](https://www.youtube.com/watch?v=axDwd5pUHU8)
+- [YouTube Demo](https://www.youtube.com/watch?v=axDwd5pUHU8)
 
 ## Technologies Used
 
