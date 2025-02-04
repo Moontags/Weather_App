@@ -16,6 +16,8 @@ This is a simple weather application that fetches and displays weather informati
 
 - [YouTube Demo](https://www.youtube.com/watch?v=axDwd5pUHU8)
 
+- [Try it here] (https://moontags.github.io/Weather_App/)
+
 ## Technologies Used
 
 - HTML
